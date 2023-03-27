@@ -1,4 +1,4 @@
-name: Backend CI
+name: Backend CI/
 
 #show actor name
 run-name: ${{ github.actor }} is asking for a pull request
